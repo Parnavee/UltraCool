@@ -1,6 +1,6 @@
-# 🌿 UltraCool: Urban Heat Island Prediction using Machine Learning
+#  UltraCool: Urban Heat Island Prediction using Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 
 UltraCool is a machine learning project that predicts Land Surface Temperature (LST) using environmental, meteorological, spatial, and land-cover features.
 
@@ -8,7 +8,7 @@ The project analyzes urban heat patterns in Surat, Gujarat, and identifies the k
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze urban heat patterns
 - Perform comprehensive exploratory data analysis
@@ -19,7 +19,7 @@ The project analyzes urban heat patterns in Surat, Gujarat, and identifies the k
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - Study Area: Surat, Gujarat
 - Period: 2015–2023
@@ -28,7 +28,7 @@ The project analyzes urban heat patterns in Surat, Gujarat, and identifies the k
 
 ---
 
-## 🤖 Machine Learning Models
+##  Machine Learning Models
 
 - Linear Regression
 - Decision Tree
@@ -38,7 +38,7 @@ The project analyzes urban heat patterns in Surat, Gujarat, and identifies the k
 
 ---
 
-## 🏆 Best Model
+##  Best Model
 
 ### Random Forest Regressor
 
@@ -50,7 +50,7 @@ The project analyzes urban heat patterns in Surat, Gujarat, and identifies the k
 
 ---
 
-## 🌍 Key Findings
+##  Key Findings
 
 - **NDBI (Normalized Difference Built-Up Index):** The most influential predictor of urban heat.
 - **NDVI (Normalized Difference Vegetation Index):** Vegetation helps reduce urban heat.
@@ -59,7 +59,7 @@ The project analyzes urban heat patterns in Surat, Gujarat, and identifies the k
 
 ---
 
-## 🛠 Technologies
+##  Technologies
 
 - **Python**
 - **Pandas**
